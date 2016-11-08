@@ -1,11 +1,11 @@
-# departmental\
+﻿# departmental\
 
 <Departmental store >
 Software Requirements Specification
 For <Subsystem or Feature>
 
 
-Version <1.0>
+Version <2.0>
 
 
 [Note: The following template is provided for use with the Rational Unified Process.  Text enclosed in square brackets and displayed in blue italics (style=InfoBlue) is included to provide guidance to the author and should be deleted before publishing the document. A paragraph entered following this style will automatically be set to normal (style=Body Text).]     
